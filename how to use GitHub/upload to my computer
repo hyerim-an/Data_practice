@@ -1,0 +1,4 @@
+# 깃허브 페이지에서 수정하거나 파일 추가 후 내컴퓨터의 폴더에 저장해야함
+# [0] github 오른쪽 버트 > Git Bash here
+# git pull origin master
+# 완료!
