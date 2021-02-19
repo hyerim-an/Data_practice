@@ -1,0 +1,7 @@
+# 다른 사람 git 가져오기
+기존 나의 폴더(내꺼는 [0] github)에 새로운 폴더 하나 추가
+새로운 폴더의 오른쪽 버튼 > Git Bash here
+# git init
+# git remote add origin 다른사람의git주소복사paste
+# git pull origin master
+# 바로 완료!
