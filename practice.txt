@@ -2,6 +2,4 @@
 # my name is hyerim
 # hey come on
 
-#추가된 메세지 입니다.
-# 추가된 메세지 입니다.
-# 계속 해봐라 될 때 까지
+# why error?
