@@ -1,5 +1,4 @@
 # hello
 # my name is hyerim
 # hey come on
-
-# why error?
+# git hub 
